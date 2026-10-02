@@ -4,15 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Backend+%26+Sistemas;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=kavaxpidev&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/kavaxpi?style=social)
-![GitHub User Repo](https://img.shields.io/badge/GitHub-kavaxpi-181717?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=kxvpi&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/kxvpi?style=social)
+![GitHub User Repo](https://img.shields.io/badge/GitHub-kxvpi-181717?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-## Sobre mí 🚀
+## Bienvenido a Mi GitHub! 🚀
 
 Soy un apasionado de la tecnología y el desarrollo de software, enfocado en crear soluciones eficientes, escalables y bien diseñadas. Me especializo en desarrollo Full Stack, además de trabajar con entornos de servidores, automatización y optimización de sistemas.
 
