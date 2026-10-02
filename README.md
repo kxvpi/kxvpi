@@ -78,7 +78,7 @@ Explora mi perfil para ver proyectos, pruebas técnicas, scripts, herramientas y
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxvpi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavaxpi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxvpi&layout=compact&theme=radical)
 
 </div>
 
