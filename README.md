@@ -88,9 +88,9 @@ Explora mi perfil para ver proyectos, pruebas técnicas, scripts, herramientas y
 
 Estoy abierto a colaboraciones, proyectos, oportunidades de trabajo y conversaciones técnicas.
 
-- 📧 Email: [tu-correo@ejemplo.com](mailto:kavaxpidev@ejemplo.com)
-- 🐙 GitHub: [github.com/kavaxpi](https://github.com/kxvpi)
-- 🌍 Portfolio: [tu-portfolio.com](https://kxvpi.github.io/kvzdev/)
+- 📧 Email: [kavaxpidev@gmail.com](mailto:kavaxpidev@gmail.com)
+- 🐙 GitHub: [github.com/kxvpii](https://github.com/kxvpi)
+- 🌍 Portfolio: [Portafolio](https://kxvpi.github.io/kvzdev/)
 
 ---
 
