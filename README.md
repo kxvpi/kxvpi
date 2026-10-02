@@ -88,10 +88,9 @@ Explora mi perfil para ver proyectos, pruebas técnicas, scripts, herramientas y
 
 Estoy abierto a colaboraciones, proyectos, oportunidades de trabajo y conversaciones técnicas.
 
-- 💼 LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- 📧 Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-- 🐙 GitHub: [github.com/kavaxpi](https://github.com/kavaxpi)
-- 🌍 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
+- 📧 Email: [tu-correo@ejemplo.com](mailto:kavaxpidev@ejemplo.com)
+- 🐙 GitHub: [github.com/kavaxpi](https://github.com/kxvpi)
+- 🌍 Portfolio: [tu-portfolio.com](https://kxvpi.github.io/kvzdev/)
 
 ---
 
