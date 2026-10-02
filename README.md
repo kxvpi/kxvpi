@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Backend+%26+Sistemas;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=kavaxpi&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=kavaxpidev&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/kavaxpi?style=social)
 ![GitHub User Repo](https://img.shields.io/badge/GitHub-kavaxpi-181717?style=for-the-badge&logo=github)
 
@@ -68,7 +68,7 @@ Explora mi perfil para ver proyectos, pruebas técnicas, scripts, herramientas y
 - 🗄️ Gestión de datos y bases de datos
 - ⚙️ Herramientas de servidor y despliegue
 
-[![GitHub](https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavaxpi)
+[![GitHub](https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kxvpi)
 
 ---
 
@@ -76,7 +76,7 @@ Explora mi perfil para ver proyectos, pruebas técnicas, scripts, herramientas y
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavaxpi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxvpi&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavaxpi&layout=compact&theme=radical)
 
